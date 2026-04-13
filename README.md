@@ -76,7 +76,8 @@ Identify and segment customers based on their **lifetime value (LTV)** to unders
 ---
 
 ### 📊 Visualization
-![Customer Segmentation](/Images/ltv%20pie%202.png)
+<img src="Images/ltv pie 2.png"  alt= " Ltv_pie" width="50%">
+
 
 ---
 
@@ -145,7 +146,8 @@ Analyze how customer value evolves across cohorts based on **first purchase year
 ---
 
 ### 📊 Visualization
-![Cohort Analysis](/Images/CustomerRev%20vs%20Total%20rev.png)
+<img src="Images/CustomerRev vs Total rev.png"  alt= " Customer_rev VS total_ltv" width="50%">
+
 
 ---
 
@@ -208,7 +210,9 @@ Evaluate how many customers remain active vs churn across cohorts.
 ---
 
 ### 📊 Visualization
-![Retention Analysis](/Images/churn%20plot.png)
+<img src="Images/churn plot.png"  alt= " Churn plot " width="50%">
+
+
 
 ---
 
